@@ -1,4 +1,4 @@
-# MVP - Machine learning
+# MVP - Análise de dados
 
 **[Desafio kaggle](https://www.kaggle.com/datasets/kelvinkelue/credit-card-fraud-prediction)**
 
